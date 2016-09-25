@@ -25,8 +25,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-
-        <nav class="navbar navbar-default">
+        <!-- Main nav -->
+        <header role="navigation">
+        <nav class="navbar navbar-inverse">
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -36,28 +37,40 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Brand</a>
+                    <a class="navbar-brand" href="#">Anmol Sharma</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="Default.aspx">Home</a></li>
-                        <li><a href="About.aspx">About</a></li>
-                        <li><a href="Projects.aspx">Projects</a></li>
-                        <li><a href="Services.aspx">Services</a></li>
-                        <li><a href="Contact.aspx">Contact</a></li>
+                        <li id="home" runat="server"><a href="Default.aspx"> <i class="fa fa-home fa-lg" aria-hidden="true"></i> Home</a></li>
+                        <li id="about" runat="server"><a href="About.aspx"> <i class="fa fa-info fa-lg" aria-hidden="true"></i> About</a></li>
+                        <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-desktop fa-lg" aria-hidden="true"></i> Projects</a></li>
+                        <li id="services" runat="server"><a href="Services.aspx"> <i class="fa fa-th fa-lg" aria-hidden="true"></i> Services</a></li>
+                        <li id="contact" runat="server"><a href="Contact.aspx"> <i class="fa fa-phone fa-lg" aria-hidden="true"></i> Contact</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
             </div>
             <!-- /.container-fluid -->
         </nav>
+        </header>
 
-        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        <!-- Main content goes here -->
+        <div role="main"> 
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
         </asp:ContentPlaceHolder>
+        </div>
 
+        <!-- Footer goes here -->
+        <footer role="contentinfo">
+            <nav class="navbar navbar-default navbar-fixed-bottom">
+                <div class="container">
+                    <h1>&copy; AnmolSharma</h1>
+                </div>
+            </nav>
+        </footer>
     </form>
     <!-- JavaScript Section-->
     <script src="Scripts/bootstrap.min.js"></script>
