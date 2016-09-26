@@ -13,6 +13,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- For the icon the every page using site master -->
+    <link rel="icon" href="./Assests/Images/icon.png" />
 
     <!-- CSS Section-->
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
@@ -26,6 +28,7 @@
 <body>
     <form id="form1" runat="server">
         <!-- Main nav -->
+
         <header role="navigation">
         <nav class="navbar navbar-inverse">
             <div class="container-fluid">
@@ -37,7 +40,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Anmol Sharma</a>
+                    <a class="navbar-brand" href="Default.aspx">Anmol Sharma</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -67,7 +70,7 @@
         <footer role="contentinfo">
             <nav class="navbar navbar-default navbar-fixed-bottom">
                 <div class="container">
-                    <h1>&copy; AnmolSharma</h1>
+                   <p>&copy;AnmolSharma Student ID:300878140 </p>
                 </div>
             </nav>
         </footer>

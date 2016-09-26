@@ -66,6 +66,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assests\Images\computer-icon.png" />
+    <Content Include="Assests\Images\icon.png" />
+    <Content Include="Assests\Images\pic.jpg" />
+    <Content Include="Assests\Images\project2.jpg" />
+    <Content Include="Assests\Images\projects.jpg" />
+    <Content Include="Assests\Images\services.jpg" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />
     <Content Include="Site2.Master" />
@@ -84,6 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Assests\Images\personal.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\App.css" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -171,7 +178,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Assests\Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

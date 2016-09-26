@@ -3,9 +3,36 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
         <div class="row">
-            <div class="col-md-offset-4 col-md-6">
-                <h1>Hello World</h1>
+            <div class="col-md-offset-2 col-md-6">
+                <h1>Welcome to my portfolio page</h1>
+                <p class="para">My name is anmol and i am currently enrolled in software engineering technology Co-op at centennial collge and i am looking for Co-op opportunity</p>
+
             </div>
         </div>
     </div>
+    <div class="jumbotron">
+        <img src="./Assests/Images/personal.jpg" width="1400" height="800" />
+        <div class="col-md-offset-1 col-md-6">
+            <br />
+            <br />
+            <table>
+                <tr>
+                    <td>
+                        <a href="Projects.aspx">
+                            <img src="./Assests/Images/project2.jpg" alt="Click here to view Projects" width="500" />
+                        </a>
+                    </td>
+                    <td>
+                        <a href="Services.aspx">
+                            <img src="./Assests/Images/services.jpg" alt="Click here to view Services" width="500" /></a>
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <br />
+            <br />
+
+        </div>
+    </div>
+
 </asp:Content>

@@ -1,2 +1,15 @@
 ﻿/* Custom CSS goes here */
 body { padding-bottom: 70px; }
+ 
+div.About{
+    border-collapse: separate;
+    border-spacing: 10px;
+    font-size: 24px;
+    }
+.jumbotron { background-color:white;}
+.space { text-align:match-parent;
+         padding:19px;
+}
+.para { font-size : 22px;
+        font-family: 'Times New Roman', Times, serif;
+}
