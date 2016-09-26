@@ -66,11 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assests\Images\computer-icon.png" />
+    <Content Include="Assests\Images\About-Me.jpg" />
     <Content Include="Assests\Images\icon.png" />
     <Content Include="Assests\Images\pic.jpg" />
     <Content Include="Assests\Images\project2.jpg" />
-    <Content Include="Assests\Images\projects.jpg" />
     <Content Include="Assests\Images\services.jpg" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />

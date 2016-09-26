@@ -3,13 +3,15 @@ body { padding-bottom: 70px; }
  
 div.About{
     border-collapse: separate;
-    border-spacing: 10px;
+    border-spacing: 50px;
     font-size: 24px;
     }
 .jumbotron { background-color:white;}
 .space { text-align:match-parent;
-         padding:19px;
+         padding:50px;
 }
 .para { font-size : 22px;
         font-family: 'Times New Roman', Times, serif;
 }
+.list{font-size:15px;}
+.navpara {color:white;}

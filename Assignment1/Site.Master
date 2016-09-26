@@ -68,9 +68,9 @@
 
         <!-- Footer goes here -->
         <footer role="contentinfo">
-            <nav class="navbar navbar-default navbar-fixed-bottom">
+            <nav class="navbar navbar-inverse navbar-fixed-bottom">
                 <div class="container">
-                   <p>&copy;AnmolSharma Student ID:300878140 </p>
+                   <p class="navpara">&copy;AnmolSharma Student ID:300878140 </p>
                 </div>
             </nav>
         </footer>
