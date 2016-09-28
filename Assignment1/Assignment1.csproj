@@ -67,8 +67,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assests\Images\About-Me.jpg" />
+    <Content Include="Assests\Images\imageGallery.JPG" />
     <Content Include="Assests\Images\icon.png" />
     <Content Include="Assests\Images\pic.jpg" />
+    <Content Include="Assests\Images\Pokemon.JPG" />
     <Content Include="Assests\Images\project2.jpg" />
     <Content Include="Assests\Images\services.jpg" />
     <Content Include="packages.config" />

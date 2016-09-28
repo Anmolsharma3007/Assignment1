@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Assignment1.Default" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <br />
+    <br />
     <div class="container">
         <div class="row">
             <div class="col-md-offset-2 col-md-6">
@@ -11,7 +13,7 @@
         </div>
     </div>
     <div class="jumbotron">
-        <img src="./Assests/Images/personal.jpg" width="1400" height="800" />
+        <img src="./Assests/Images/personal.jpg" width="1345" height="800" />
         <div class="col-md-offset-1 col-md-6">
             <br />
             <br />

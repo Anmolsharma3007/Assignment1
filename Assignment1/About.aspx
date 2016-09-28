@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Assignment1.About" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <br />
+    <br />
     <div class="mainAbout">
     <img src="Assests/Images/About-Me.jpg" alt="About me banner image" />
     <br />
