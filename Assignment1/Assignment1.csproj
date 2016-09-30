@@ -66,19 +66,23 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assests\Images\cricket.JPG" />
     <Content Include="Assests\Images\fb.png" />
+    <Content Include="Assests\Images\formbackground1.jpg" />
     <Content Include="Assests\Images\github.png" />
     <Content Include="Assests\Images\insta.png" />
     <Content Include="Assests\Images\logo.png" />
-    <Content Include="Assests\Images\personal.jpg" />
     <Content Include="Assests\Images\About-Me.jpg" />
     <Content Include="Assests\Images\imageGallery.JPG" />
     <Content Include="Assests\Images\icon.png" />
+    <Content Include="Assests\Images\myPic1.jpg" />
+    <Content Include="Assests\Images\myPic.jpg" />
     <Content Include="Assests\Images\pic.jpg" />
     <Content Include="Assests\Images\Pokemon.JPG" />
     <Content Include="Assests\Images\project2.jpg" />
     <Content Include="Assests\Images\services.jpg" />
     <Content Include="Contact.aspx" />
+    <Content Include="Content\App2.css" />
     <Content Include="packages.config" />
     <Content Include="personal.jpg" />
     <Content Include="Site.Master" />

@@ -7,7 +7,7 @@
      <!-- Contact.aspx File -->
     <br />
     <br />
-
+    <div class="opacity"> 
        <div class="container">
         <div class="row">
             <div class="col-md-offset-2 col-md-6">
@@ -16,15 +16,15 @@
     <table class="tableInfo">
         <tr>
             <td>Email Address:</td>
-            <td>Anmolsharma3007@gmail.com</td>
+            <td><a href="mailto:Anmolsharma0097@gmail.com">Anmolsharma3007@gmail.com</a></td>
         </tr>
         <tr>
             <td>Work Address:</td>
-            <td>37 Nott Dr, Ajax,ON</td>
+            <td> <a href="https://www.google.ca/maps/place/Nott+Dr,+Ajax,+ON+L1T+4P8/@43.8719941,-79.0718379,17z/data=!3m1!4b1!4m5!3m4!1s0x89d4df7e8bc9e07d:0xcd70df7962e20e26!8m2!3d43.8719941!4d-79.0696492">37 Nott Dr, Ajax,ON</a></td>
         </tr>
         <tr>
             <td>Phone Number:</td>
-            <td>647-767-9534</td>
+            <td> <a href="tel:+16477679534">647-767-9534</a></td>
         </tr>
     </table>
                 <br />
@@ -56,4 +56,5 @@
             </div>
             </div>
            </div>
+        </div>
 </asp:Content>

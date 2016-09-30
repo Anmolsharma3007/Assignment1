@@ -17,7 +17,7 @@
         </div>
     </div>
     <div class="jumbotron">
-        <img src="./Assests/Images/personal.jpg" width="1345" height="800" />
+        <img src="./Assests/Images/myPic1.jpg" width="1345" height="1800"/>
         <div class="col-md-offset-1 col-md-6">
             <br />
             <br />

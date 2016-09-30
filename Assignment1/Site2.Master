@@ -20,6 +20,7 @@
     <link href="Content/font-awesome.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/App.css" rel="stylesheet" />
+    <link href="Content/App2.css" rel="stylesheet" />
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>

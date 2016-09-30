@@ -14,16 +14,21 @@
                 <br />
                 <br />
                 <br />
-
+  
                 <table class="tableProj">
                     <tr>
                         <th>Image Gallery</th>
-                        <th colspan="2">Pokemon Game</th>
+                        <th>Pokemon Game</th>
+                        <th> Cricket Project</th>
                     </tr>
                     <tr>
-                        <td> <a href="http://studentweb.cencol.ca/a105/photos.htm"> <img src="Assests/Images/imageGallery.JPG" width="400" /> </a></td>
-                        <td><a href="http://studentweb.cencol.ca/a105/Assignment5.html"> <img src="Assests/Images/Pokemon.JPG" width="400" height="210" /> </a></td>                    </tr>
-                </table>
+                        <td> <a href="http://studentweb.cencol.ca/a105/photos.htm"> <img class="projectImg"src="Assests/Images/imageGallery.JPG" width="300" height="210" /> </a></td>
+                        <td><a href="http://studentweb.cencol.ca/a105/Assignment5.html"> <img class="projectImg" src="Assests/Images/Pokemon.JPG" width="250" height="210" /> </a></td>                    
+                          <td><a href="http://studentweb.cencol.ca/a105/assignment.html"> <img class="projectImg" src="Assests/Images/cricket.JPG" width="250" height="210" /> </a></td>    
+               
+                         </tr>
+                        </table>
+
 
             </div>
         </div>

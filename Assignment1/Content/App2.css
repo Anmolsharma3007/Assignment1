@@ -1,0 +1,8 @@
+﻿/* CSS  for Site Master goes here*/
+body {
+    
+   background-image: url('../Assests/Images/formbackground1.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+        opacity:0.8;
+}

@@ -34,3 +34,12 @@ table, td, th {
 th, td {
     padding: 15px;
 }
+.projectImg {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.projectImg:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
