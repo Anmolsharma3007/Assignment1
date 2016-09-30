@@ -1,6 +1,10 @@
 ﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Assignment1.About" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <!-- Name:Anmol Sharma-->
+     <!-- Student ID: 300878140 -->
+     <!-- Date:24-September-2016 -->
+     <!-- About.aspx File -->
     <br />
     <br />
     <div class="mainAbout">

@@ -1,9 +1,9 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site2.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="Assignment1.Contact" %>
+﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site2.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="Assignment1.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent2" runat="server">
      <!-- Name:Anmol Sharma-->
      <!-- Student ID: 300878140 -->
-     <!-- Date:24-September-2016 -->
+     <!-- Date:27-September-2016 -->
      <!-- Contact.aspx File -->
     <br />
     <br />
@@ -30,7 +30,7 @@
                 <br />
                 <br />
                 
-                <h2> We need your feedback,Please provide your feedback </h2>
+                <h2> Please provide your feedback we need it</h2>
                 <div class="form-group">
                     <label for="FirstNameTextBox">First Name</label>
                     <asp:TextBox CssClass="form-control" ID="FirstNameTextBox" runat="server" required="true"></asp:TextBox>
@@ -51,7 +51,7 @@
                     <label for="FeedBackTextBox">FeedBack</label>
                     <asp:TextBox TextMode="MultiLine" CssClass="form-control" ID="TextBox1" runat="server" required="true"></asp:TextBox>
                 </div>
-                <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" OnClick="SendButton_Click" />
+                <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" OnClick="SendButton_Click"/>
 
             </div>
             </div>

@@ -66,6 +66,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assests\Images\fb.png" />
+    <Content Include="Assests\Images\github.png" />
+    <Content Include="Assests\Images\insta.png" />
     <Content Include="Assests\Images\logo.png" />
     <Content Include="Assests\Images\personal.jpg" />
     <Content Include="Assests\Images\About-Me.jpg" />

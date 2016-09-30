@@ -1,6 +1,10 @@
 ﻿<%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="Assignment1.Projects" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <!-- Name:Anmol Sharma-->
+     <!-- Student ID: 300878140 -->
+     <!-- Date:26-September-2016 -->
+     <!-- Project.aspx File -->
     <br />
     <br />
     <div class="container">
@@ -17,8 +21,8 @@
                         <th colspan="2">Pokemon Game</th>
                     </tr>
                     <tr>
-                        <td> <a href="http://studentweb.cencol.ca/a105/photos.htm"> <img src="Assests/Images/imageGallery.JPG" width="200" /> </a></td>
-                        <td><a href="http://studentweb.cencol.ca/a105/photos.htm"> <img src="Assests/Images/Pokemon.JPG" width="200" /> </a></td>                    </tr>
+                        <td> <a href="http://studentweb.cencol.ca/a105/photos.htm"> <img src="Assests/Images/imageGallery.JPG" width="400" /> </a></td>
+                        <td><a href="http://studentweb.cencol.ca/a105/Assignment5.html"> <img src="Assests/Images/Pokemon.JPG" width="400" height="210" /> </a></td>                    </tr>
                 </table>
 
             </div>

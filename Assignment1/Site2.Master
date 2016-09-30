@@ -69,7 +69,13 @@
         <footer role="contentinfo">
             <nav class="navbar navbar-inverse navbar-fixed-bottom">
                 <div class="container">
-                   <p class="navpara">&copy;AnmolSharma Student ID:300878140 </p>
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+                    <a href="https://www.instagram.com/anmolsharma0097/?hl=en"> Instagram<img src="Assests/Images/insta.png" alt="Instagram" width="30" /></a>
+                    &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+                    <a href="https://www.facebook.com/anmol.sharma.3576"> Facebook<img src="Assests/Images/fb.png" alt="Facebook" width="30" /></a>
+                    &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+                    <a href="https://github.com/Anmolsharma3007"> Github <img src="Assests/Images/github.png" alt="Github" width="30"/></a>
+                    
                 </div>
             </nav>
         </footer>
