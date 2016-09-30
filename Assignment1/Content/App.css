@@ -1,5 +1,8 @@
 ﻿/* Custom CSS goes here */
-body { padding-bottom: 70px; }
+body {
+    padding-bottom: 70px;
+
+}
  
 div.About{
     border-collapse: separate;
@@ -18,3 +21,15 @@ div.About{
 .tableProj{font-size:35px;
   padding:65px;
   border-style: groove;}
+
+.tableInfo {
+    border-collapse: collapse;
+    width: 100%;
+}
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+th, td {
+    padding: 15px;
+}

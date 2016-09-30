@@ -66,6 +66,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assests\Images\logo.png" />
+    <Content Include="Assests\Images\personal.jpg" />
     <Content Include="Assests\Images\About-Me.jpg" />
     <Content Include="Assests\Images\imageGallery.JPG" />
     <Content Include="Assests\Images\icon.png" />
@@ -73,7 +75,9 @@
     <Content Include="Assests\Images\Pokemon.JPG" />
     <Content Include="Assests\Images\project2.jpg" />
     <Content Include="Assests\Images\services.jpg" />
+    <Content Include="Contact.aspx" />
     <Content Include="packages.config" />
+    <Content Include="personal.jpg" />
     <Content Include="Site.Master" />
     <Content Include="Site2.Master" />
     <Content Include="fonts\FontAwesome.otf" />
@@ -91,8 +95,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="Assests\Images\personal.jpg" />
-    <Content Include="Contact.aspx" />
     <Content Include="Content\App.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
