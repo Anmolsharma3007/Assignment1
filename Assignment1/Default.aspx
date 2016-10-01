@@ -11,7 +11,8 @@
         <div class="row">
             <div class="col-md-offset-2 col-md-6">
                 <h1>Welcome to my portfolio page</h1>
-                <p class="para">My name is anmol and i am currently enrolled in software engineering technology Co-op at centennial collge and i am looking for Co-op opportunity</p>
+                <br />
+                <p class="para">My name is anmol(Student ID:300878140) and i am currently enrolled in software engineering technology Co-op at centennial collge and i am looking for Co-op opportunity</p>
 
             </div>
         </div>

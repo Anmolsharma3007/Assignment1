@@ -17,14 +17,14 @@
   
                 <table class="tableProj">
                     <tr>
-                        <th>Image Gallery</th>
-                        <th>Pokemon Game</th>
-                        <th> Cricket Project</th>
+                        <th class="ProjectColumn">Image Gallery</th>
+                        <th class="ProjectColumn">Pokemon Game</th>
+                        <th class="ProjectColumn"> Cricket Project</th>
                     </tr>
                     <tr>
-                        <td> <a href="http://studentweb.cencol.ca/a105/photos.htm"> <img class="projectImg"src="Assests/Images/imageGallery.JPG" width="300" height="210" /> </a></td>
-                        <td><a href="http://studentweb.cencol.ca/a105/Assignment5.html"> <img class="projectImg" src="Assests/Images/Pokemon.JPG" width="250" height="210" /> </a></td>                    
-                          <td><a href="http://studentweb.cencol.ca/a105/assignment.html"> <img class="projectImg" src="Assests/Images/cricket.JPG" width="250" height="210" /> </a></td>    
+                        <td class="ProjectRow"> <a href="http://studentweb.cencol.ca/a105/photos.htm"> <img class="projectImg"src="Assests/Images/imageGallery.JPG" width="300" height="210" /> </a></td>
+                        <td class="ProjectRow"><a href="http://studentweb.cencol.ca/a105/Assignment5.html"> <img class="projectImg" src="Assests/Images/Pokemon.JPG" width="250" height="210" /> </a></td>                    
+                          <td class="ProjectRow"><a href="http://studentweb.cencol.ca/a105/assignment.html"> <img class="projectImg" src="Assests/Images/cricket.JPG" width="250" height="210" /> </a></td>    
                
                          </tr>
                         </table>

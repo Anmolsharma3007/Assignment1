@@ -27,19 +27,27 @@ div.About{
     border-collapse: collapse;
     width: 100%;
 }
-table, td, th {
+.tableInfo,.ProjectColumn, .ProjectRow {
     border: 1px solid #ddd;
     text-align: left;
 }
-th, td {
+.ProjectColumn, .ProjectRow {
     padding: 15px;
 }
 .projectImg {
     opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+    filter: alpha(opacity=50); 
 }
 
 .projectImg:hover {
     opacity: 1.0;
-    filter: alpha(opacity=100); /* For IE8 and earlier */
+    filter: alpha(opacity=100);
+}
+
+.tb5 {
+	border:2px solid #456879;
+	border-radius:10px;
+	height: 80px;
+	width: 90px;
+    background-color:#4280f4;
 }

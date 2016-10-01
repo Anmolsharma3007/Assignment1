@@ -15,16 +15,16 @@
                 <br />
     <table class="tableInfo">
         <tr>
-            <td>Email Address:</td>
-            <td><a href="mailto:Anmolsharma0097@gmail.com">Anmolsharma3007@gmail.com</a></td>
+            <td class="ProjectColumn">Email Address:</td>
+            <td class="ProjectColumn"><a href="mailto:Anmolsharma0097@gmail.com">Anmolsharma3007@gmail.com</a></td>
         </tr>
         <tr>
-            <td>Work Address:</td>
-            <td> <a href="https://www.google.ca/maps/place/Nott+Dr,+Ajax,+ON+L1T+4P8/@43.8719941,-79.0718379,17z/data=!3m1!4b1!4m5!3m4!1s0x89d4df7e8bc9e07d:0xcd70df7962e20e26!8m2!3d43.8719941!4d-79.0696492">37 Nott Dr, Ajax,ON</a></td>
+            <td class="ProjectColumn">Work Address:</td>
+            <td class="ProjectColumn"> <a href="https://www.google.ca/maps/place/Nott+Dr,+Ajax,+ON+L1T+4P8/@43.8719941,-79.0718379,17z/data=!3m1!4b1!4m5!3m4!1s0x89d4df7e8bc9e07d:0xcd70df7962e20e26!8m2!3d43.8719941!4d-79.0696492">37 Nott Dr, Ajax,ON</a></td>
         </tr>
         <tr>
-            <td>Phone Number:</td>
-            <td> <a href="tel:+16477679534">647-767-9534</a></td>
+            <td class="ProjectColumn">Phone Number:</td>
+            <td class="ProjectColumn"> <a href="tel:+16477679534">647-767-9534</a></td>
         </tr>
     </table>
                 <br />
@@ -51,7 +51,7 @@
                     <label for="FeedBackTextBox">FeedBack</label>
                     <asp:TextBox TextMode="MultiLine" CssClass="form-control" ID="TextBox1" runat="server" required="true"></asp:TextBox>
                 </div>
-                <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" OnClick="SendButton_Click"/>
+                <a href="Default.aspx"> <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" OnClick="SendButton_Click" /></a>
 
             </div>
             </div>

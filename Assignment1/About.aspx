@@ -8,7 +8,14 @@
     <br />
     <br />
     <div class="mainAbout">
-        <img src="Assests/Images/About-Me.jpg" alt="About me banner image" />
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-1 col-md-6">
+        <img src="Assests/Images/About-Me.jpg" alt="About me banner image" width="900" height="300"/>
+                </div>
+            </div>
+        </div>
+
         <br />
         <br />
         <div class="container">
